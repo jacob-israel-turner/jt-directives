@@ -1,11 +1,9 @@
 #jt-directives
-=============
 
 A collection of directives, for personal and public use.
 
 
 ##jt-scroll-directive
-=====================
 
 This directive uses jQuery for easy, smooth scrolling with the use of classes.
 
