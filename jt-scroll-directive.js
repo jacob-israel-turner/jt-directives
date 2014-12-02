@@ -1,4 +1,4 @@
-angular.module('jtScrollDirective', [])
+angular.module('jtDirective', [])
 .directive('jtScrollDirective', function(){
 	return{
 		restrict: 'A',
