@@ -10,7 +10,7 @@ This directive uses jQuery for easy, smooth scrolling with the use of classes.
 Include the directive as a dependency in your app
 
 ```
-var app = angular.module('myApp', ['jt-scroll-directive'])
+var app = angular.module('myApp', ['jt-directive'])
 ```
 
 Include the directive as an attribute on the parent element of whatever elements you want to invoke the scroll on.
